@@ -4,7 +4,7 @@ The python Jupyter Notebook wpm_patterns.ipynb analyzes raw data in wpmdaily.csv
 
 The motivation being: to quantify the likelihood that my hardware is sending bad signals by understanding the relationships and patterns within the distribution of typists speed, accuracy, and consistency.
 
-I will attain reasonable speeds (111wpm) despite incredibly low accuracy (85%).  This is the rate referenced in the charts.  My personal best of 121wpm had an accuracy of 95%, but that was prior to my accuracy and wpm rates inexplicably decreasing.
+Driving this motivation is my otherwise inexplicable degredation of both typing speed and accuracy lately from 122 WPM and 96% accuracy (for full 60 sec test) to around 111 WPM at just 85% accuracy.  The latter [uncharacteristic] rates are the ones referenced in the charts below.
 
 ![alt text](https://github.com/conner-mcnicholas/SpeedTyping/blob/main/imgs/mystats.png?raw=true)
 
