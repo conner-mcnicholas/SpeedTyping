@@ -6,8 +6,22 @@ The motivation being: to quantify the likelihood that my hardware is sending bad
 
 I will attain reasonable speeds (111wpm) despite incredibly low accuracy (85%).  This is the rate referenced in the charts.  My personal best of 121wpm had an accuracy of 95%, but that was prior to my accuracy and wpm rates inexplicably decreasing.
 
-![alt text](https://github.com/conner-mcnicholas/SpeedTyping/blob/main/mystats.png?raw=true)
+![alt text](https://github.com/conner-mcnicholas/SpeedTyping/blob/main/imgs/mystats.png?raw=true)
 
-The exercise seemed to support this hypothesis.  Across 1000 other typers in the daily fastest on 60sec mode, there is only a couple users with similary anomolous results.    
+The exercise seemed to support this hypothesis.  Across 1000 other typers in the daily fastest on 60sec mode, there are only a couple users with similary anomolous results:
 
-This is by no means conclusive, and was not intended to serve as such.  These could just be true anomolies.
+![alt text](https://github.com/conner-mcnicholas/SpeedTyping/blob/main/imgs/scatter.png?raw=true)
+
+Although the distribution is quite skewed, it is worth noting that my accuracy rate is 4.5 standard deviations below the mean:
+
+![alt text](https://github.com/conner-mcnicholas/SpeedTyping/blob/main/imgs/dist.png?raw=true)
+
+Box plots give richer detail, but tell the same story:
+
+![alt text](https://github.com/conner-mcnicholas/SpeedTyping/blob/main/imgs/boxes.png?raw=true)
+
+Is it almost certain that I'm just a typological freak, and these metrics are simply depicting my extraordinary sloppiness?  Yes.  
+
+Would I rather spend a couple hours making overly complicated charts pointing the accusatory finger (or all 10 of them) at my potentially defective keyboard?
+
+![alt text](https://github.com/conner-mcnicholas/SpeedTyping/blob/main/imgs/believe.png?raw=true)
